@@ -15,5 +15,4 @@ source: jrabef.github.io
 
 # Build settings
 encoding: utf-8
-highlighter: rouge
 markdown: kramdown
