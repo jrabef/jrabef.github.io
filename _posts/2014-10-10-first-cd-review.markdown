@@ -8,17 +8,17 @@ I'm excited to review [Andrew McMahon][andrew-mcmahon]'s new project "Andrew McM
 
 ## Track Listing
 1. *Canyon Moon* - A very dancey, pulsing song with a nice beat. It has a straightforward piano piece in it, nothing too earth-shattering.
-2. *Cecilia And The Satellite* - The most catchy, pop-focused song on the album.
+2. *Cecilia And The Satellite* - The most catchy, pop-focused song on the album with some nice pulsating bass and synth.
 3. *High Dive* - My second favorite song on the album. Such a great beat and an awesome line in the chorus "dancing to someone else's song."
 4. *All Our Lives* - His dreamy voice is dreamy.
 5. *See Her On The Weekend* - This is definitely the **best** track on the album. This is signature Andrew McMahon. The lyrics are very focused on love and waiting patiently for a loved one while away. The piano track is noticeable and outstanding.
 6. *Black And White Movies*
-7. *Driving Through A Dream* - 
-8. *Halls* - Meh.
+7. *Driving Through A Dream* - This song also makes me think 80s. :)
+8. *Halls* - Not as upbeat... Meh. :)
 9. *Rainy Girl* - A very slow, simple and old-fashioned love song, and the piano melody sounds like it's from an 80s song.
 10. *Maps For The Getaway*
 
-Anybody going to buy the album (lowest price I've seen is on [Amazon][amazon-link]) or going to see him live?
+Anybody else buy the album (lowest price I've seen is on [Amazon][amazon-link]) or see him live?
 
 Andrew McMahon In The Wilderness is currently touring with Hunter Hunted, Junior Prom, and Fences.
 
