@@ -6,6 +6,8 @@ categories: music rock andrew-mcmahon
 ---
 I'm excited to review [Andrew McMahon][andrew-mcmahon]'s new project "Andrew McMahon In The Wilderness." It's his first full-length release as a solo artist after the release of his EP "The Pop Underground" on 4/30/2013.
 
+![CD Cover](/images/andrew-mcmahon-in-the-wilderness.jpg)
+
 ## Track Listing
 1. *Canyon Moon* - A very dancey, pulsing song with a nice beat. It has a straightforward piano piece in it, nothing too earth-shattering.
 2. *Cecilia And The Satellite* - The most catchy, pop-focused song on the album with some nice pulsating bass and synth.
