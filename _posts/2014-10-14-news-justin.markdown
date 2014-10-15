@@ -6,7 +6,7 @@ categories: music news php microsoft wristify andrew-mcmahon
 ---
 I'm excited to announce I have an interview with Fetch Rewards on Thursday.
 
-* Wristify(http://www.embrlabs.com/) is in the news! It's a great bracelet that regulates your body temperature. It was a finalist in the Intel Wearables challenge.
+* [Wristify](http://www.embrlabs.com/) is in the news! It's a great bracelet that regulates your body temperature. It was a finalist in the Intel Wearables challenge.
 
 * [Humble Mozilla Bundle](https://www.humblebundle.com) - You can play awesome games in your browser (or on Steam) and support the open and free web!
 
