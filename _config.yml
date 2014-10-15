@@ -3,6 +3,7 @@ title: Vocal Cataclysm
 email: justin.rabensdorf@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My thoughts on various technologies, literature, and music.
+author: Justin Rabensdorf
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "jrabef.github.io" # the base hostname & protocol for your site
 twitter_username: soulkarver
