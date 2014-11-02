@@ -18,6 +18,6 @@ http://css-tricks.com/absolutely-position-element-within-a-table-cell/
 
 * Cards: I read an interesting article about the future of the web using "cards." Twitter is using them right now. The basic idea is that you can interact with an external API/website using a small block that looks like a card. You can carry out functions from an external site without ever leaving the page you are on. Like a window to the external page. http://blog.intercom.io/the-end-of-apps-as-we-know-them/
 
-* I'm tweaking the playlist function on my website. I'm making it so anyone can add songs to public playlists, so I have to add userid field to 'playlist song' table.
+* I'm tweaking the playlist function on my website. I'm making it so anyone can add songs to public playlists, so I have to add a userid field to the 'playlist song' table to keep track of who added a song to the playlist.
 
-Need to work on my website! Bye!
+Alright, need to work on my website!
